@@ -1,0 +1,21 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: black;
+}
+
+#para {
+    color: antiquewhite;
+    font-size: 25px;
+}
+
+#countdown {
+    background-color: antiquewhite;
+    border-radius: 5px;
+    display: inline-flex;
+     align-items: center;
+    justify-content: center; 
+    margin: 0;
+    font-size: 55px;
+    height: 80px;
+    width: 200px;
+}
